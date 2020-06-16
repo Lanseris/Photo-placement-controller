@@ -1,0 +1,41 @@
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\App.g.cs
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo_MarkupCompile.cache
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\bin\Debug\NextLvlServInfo.exe.config
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\bin\Debug\NextLvlServInfo.exe
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\bin\Debug\NextLvlServInfo.pdb
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\MainWindow.g.cs
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo_MarkupCompile.lref
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\MainWindow.baml
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.g.resources
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.Properties.Resources.resources
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.csproj.GenerateResource.cache
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.exe
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.pdb
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\bin\Debug\TreeListView.dll
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.csproj.CopyComplete
+C:\Users\Vasiliy.Kononov\Source\Repos\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.csprojAssemblyReference.cache
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\bin\Debug\NextLvlServInfo.exe.config
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\bin\Debug\NextLvlServInfo.exe
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\bin\Debug\NextLvlServInfo.pdb
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\bin\Debug\ControlzEx.dll
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\bin\Debug\MahApps.Metro.dll
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\bin\Debug\TreeListView.dll
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\bin\Debug\ControlzEx.pdb
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\bin\Debug\MahApps.Metro.pdb
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\bin\Debug\MahApps.Metro.xml
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.csprojAssemblyReference.cache
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\MainWindow.g.cs
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\App.g.cs
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo_MarkupCompile.cache
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo_MarkupCompile.lref
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\MainWindow.baml
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.g.resources
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.Properties.Resources.resources
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.csproj.GenerateResource.cache
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.csproj.CopyComplete
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.exe
+C:\Users\Vasiliy\Desktop\с работы\Проекты\NextLvlServInfo\NextLvlServInfo\obj\Debug\NextLvlServInfo.pdb
