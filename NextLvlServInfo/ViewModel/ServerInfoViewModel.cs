@@ -17,7 +17,7 @@ namespace NextLvlServInfo.ViewModel
 {
     public class ServerInfoViewModel: INotifyPropertyChanged /*, INotifyCollectionChanged*/
     {
-        DataManager _dataManager;
+        private DataManager _dataManager;
 
         #region тесты библиотеки TreeListView
 
@@ -105,7 +105,7 @@ namespace NextLvlServInfo.ViewModel
 
             _dataManager = new DataManager();
             DirectoriesDic = new ObservableCollection<KeyValuePair<string, DirectoryModel>>(_dataManager.DirectoryModelDic);
-            
+
             //TODO изменить на подсчёт в выбраном элементе и добавить этот список в DirectoryModel
             FormatNum = _dataManager.FormatNumSum(_dataManager.DirectoryModelDic.FirstOrDefault().Value);
         }
