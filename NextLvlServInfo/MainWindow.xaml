@@ -38,10 +38,10 @@
                     <TreeViewItem IsSelected="True" ItemsSource="{Binding Value.DirectoryModelsList}">
 
                         <TreeViewItem.Header>
-                            <Grid Width="350">
+                            <Grid >
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="Auto"></ColumnDefinition>
-                                    <ColumnDefinition Width="Auto" ></ColumnDefinition>
+                                    <!--<ColumnDefinition Width="Auto" ></ColumnDefinition>-->
                                 </Grid.ColumnDefinitions>
            
                                 <TextBlock Text="{Binding Value.ShortName}" Grid.Column="0"/>
@@ -52,7 +52,7 @@
                         <TreeViewItem.ItemTemplate>
 
                             <HierarchicalDataTemplate  ItemsSource="{Binding Path = DirectoryModelsList}">
-                                <Grid Width="350">
+                                <Grid>
                                     <Grid.ColumnDefinitions>
                                         <ColumnDefinition></ColumnDefinition>
                                         <!--<ColumnDefinition></ColumnDefinition>-->                                                                           <!--это будет в отдельной табличке-->
