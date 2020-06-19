@@ -25,7 +25,11 @@ namespace NextLvlServInfo.DataModel
 
         public List<DirectoryModel> DirectoryModelsList { get; set; }
 
-        //функция для мержа повторяющихся элементов словарей с типами файлов
+        /// <summary>
+        /// Функция, описывающая способ объединения значений дублирующихся ключей, во время мерджа словарей
+        /// В текущей производиться банальная сумма значений
+        /// TODO УДОСТОВЕРИТЬСЯ, ЧТО ПО ЛОГИКЕ ОНА ДОЛЖНА ОПИСЫВАТЬСЯ В ДАННОМ КЛАССЕ
+        /// </summary>
         public Func<IEnumerable<KeyValuePair<string, int>>,int> Sum  = pairs => pairs.Select(x => x.Value).Sum();
 
         public DirectoryModel()
